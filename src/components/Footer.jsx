@@ -24,7 +24,7 @@ export default function Footer() {
             <div className="p-2 rounded-full bg-gray-800 group-hover:bg-gold transition-colors text-white">
               <Mail size={16} />
             </div>
-            <span>dean@example.com</span>
+            <span>dean.lauvina@theagency.com</span>
           </a>
 
           <a href="https://instagram.com/DeanChicagoLiving" target="_blank" rel="noreferrer" className="flex items-center gap-3 hover:text-white transition-colors group">
