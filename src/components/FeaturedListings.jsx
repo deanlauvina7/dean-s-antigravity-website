@@ -11,7 +11,7 @@ const listings = [
     neighborhood: "South Loop",
     price: "From $3,400",
     desc: "Unrivaled views of Lake Michigan and Grant Park with resort-style amenities.",
-    img: "https://www.rentnemachicago.com/assets/uploads/transforms/images/chicago/amenities/69727/Skyline-Terrace-1_3c1657810feb51330bbfc5a9ae7e2f09.jpg",
+    img: "/images/nema-chicago.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const listings = [
     neighborhood: "River North",
     price: "From $2,800",
     desc: "Iconic riverfront living where the three branches of the Chicago River meet.",
-    img: "https://images.unsplash.com/photo-1512403754473-27835f7b9984?auto=format&fit=crop&q=80&w=800",
+    img: "/images/wolf-point-east.jpg",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const listings = [
     neighborhood: "Gold Coast",
     price: "From $3,200",
     desc: "Sophisticated luxury integrated with a flagship Jewel-Osco next to transit.",
-    img: "https://images.unsplash.com/photo-1623862215440-42baacccb416?auto=format&fit=crop&q=80&w=800",
+    img: "/images/the-sinclair.jpg",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const listings = [
     neighborhood: "River North / Gold Coast",
     price: "From $3,500",
     desc: "A lifestyle masterpiece spanning an entire city block with Whole Foods & Lifetime Fitness.",
-    img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800",
+    img: "/images/one-chicago.jpg",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const listings = [
     neighborhood: "West Loop",
     price: "From $2,600",
     desc: "Modern living steps from Fulton Market and Randolph Street.",
-    img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800",
+    img: "/images/727-w-madison.jpg",
   }
 ];
 
