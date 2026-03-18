@@ -13,18 +13,18 @@ export default function Footer() {
 
         {/* Contact Links */}
         <div className="flex flex-col sm:flex-row gap-8 sm:gap-12 text-sm font-medium">
-          <a href="tel:8152950998" className="flex items-center gap-3 hover:text-white transition-colors group">
+          <a href="tel:815-295-0998" className="flex items-center gap-3 hover:text-white transition-colors group">
             <div className="p-2 rounded-full bg-gray-800 group-hover:bg-gold transition-colors text-white">
               <Phone size={16} />
             </div>
-            <span>(815) 295-0998</span>
+            <span>815-295-0998</span>
           </a>
 
-          <a href="mailto:dean@example.com" className="flex items-center gap-3 hover:text-white transition-colors group">
+          <a href="mailto:dean.lauvina@thenavagency.com" className="flex items-center gap-3 hover:text-white transition-colors group">
             <div className="p-2 rounded-full bg-gray-800 group-hover:bg-gold transition-colors text-white">
               <Mail size={16} />
             </div>
-            <span>dean.lauvina@theagency.com</span>
+            <span>dean.lauvina@thenavagency.com</span>
           </a>
 
           <a href="https://instagram.com/DeanChicagoLiving" target="_blank" rel="noreferrer" className="flex items-center gap-3 hover:text-white transition-colors group">
