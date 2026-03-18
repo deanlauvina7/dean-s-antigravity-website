@@ -17,6 +17,22 @@ const reviews = [
   {
     name: "Segun A.",
     text: "Big shout out to Dean Lauvina. He came highly recommended by a friend he helped get an apartment in the past and I can say I totally see why. He was very attentive to the things I cared about in an apartment. He sent me a shortlist, took me to check out the places I selected and I'm very happy to say I've found a place that checks all the boxes I care about."
+  },
+  {
+    name: "Johan A.",
+    text: "Hello! I had an amazing experience dealing with this company! Dean and Jay were phenomenal and professional throughout the whole process. They were diligent and responsive. They made my experience looking for a new apartment very easy and exciting! I would highly recommend using their services!"
+  },
+  {
+    name: "Maritoni N.",
+    text: "From scouring the typical apartments.com website, aptamigo was exceptional. Very clean aesthetic and easy-to-navigate use. Finding this website and Dean as our realtor was nothing short of coincidental and a blessing! Dean is very personable, he made this process of finding that perfect place very smooth and it was comforting to know he had our preferences in mind. He knew who to speak to, where to go, and key phrases to say. It was very helpful for someone like myself that was going through this process for the first time. I highly recommend Dean and aptamigo if you're searching for your next place, especially in downtown Chicago!"
+  },
+  {
+    name: "Dannah M.",
+    text: "Dean & Kaydee were such a pleasure to work with! They provided great options within my budget & timeline, and truly made the choice difficult in the best way. They alleviated the stress of apartment hunting & vetting down to the tours and lease signing. As someone moving from out of state, their assistance in finding the best apartment was a lifesaver, can't recommend them enough."
+  },
+  {
+    name: "Lily S.",
+    text: "Dean was great to work with! He was very informative on each apartment and helped us get moved in smoothly and quickly. Highly suggest reaching out to Dean if you are looking for apartments in Chicago. We love our apartment and can't thank Dean enough for his support and guidance through the process!"
   }
 ];
 
